@@ -1,6 +1,6 @@
 default http://www.gaiaonline.com/profiles/violent-pixels/20451140/ 0,0 348,297
 
-rect http://www.violent-pixels.tumblr.com/ 10,61 145,92
-rect http://www.meattruck.tumblr.com/ 10,101 113,132
-rect https://www.twitter.com/floofyfloofs/ 10,141 147,172
-rect https://www.youtube.com/channel/UCQnPSTRP5QfCRBNPkibhyjg/ 10,181 145,212
+rect <a herf=http://www.violent-pixels.tumblr.com/></a> 10,61 145,92
+rect <a herf=http://www.meattruck.tumblr.com/</a> 10,101 113,132
+rect <a herf=https://www.twitter.com/floofyfloofs/></a> 10,141 147,172
+rect <a herf=https://www.youtube.com/channel/UCQnPSTRP5QfCRBNPkibhyjg/></a> 10,181 145,212
